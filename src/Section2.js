@@ -3,7 +3,12 @@ import React from 'react'
 function Section2() {
   return (
     <div class="container">
-
+      <div>
+            <h2>Food Menu</h2>
+            <p>
+                Chola Cafe is a vibrant and inviting restaurant offering a fusion of traditional Indian flavors and contemporary dining.
+            </p>
+        </div>
       <div class="content">
             <div class="list">
                 <li data-color=".All">All</li>
