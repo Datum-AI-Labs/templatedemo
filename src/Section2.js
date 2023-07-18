@@ -4,9 +4,9 @@ function Section2() {
   return (
     <div class="container">
       <div>
-            <h2>Food Menu</h2>
+            <h2>Chola Cafe is a vibrant and inviting restaurant offering a fusion of traditional Indian flavors and contemporary dining.</h2>
             <p>
-                Chola Cafe is a vibrant and inviting restaurant offering a fusion of traditional Indian flavors and contemporary dining.
+                Food Menu
             </p>
         </div>
       <div class="content">
